@@ -19,37 +19,37 @@
     "env": {
         "API_ID": {
             "description": "my.telegram.org saytından ala bilərsiniz.",
-            "value": "",
+            "value": "12349641",
             "required": true
         },
         "API_HASH": {
             "description": "my.telegram.org saytından ala bilərsiniz.",
-            "value": "",
+            "value": "0f9159afc920f9c592df555e4b1cb73b",
             "required": true
         },
         "BOT_TOKEN": {
             "description": "@Botfather botundan ala bilərsiniz.",
-            "value": "",
+            "value": "6233896386:AAHT2zzRsy5dXT15fA1mrYRM8gDxqHy2MDU",
             "required": true
         },
         "PLAYLIST_NAME": {
             "description": "Playlist kanalının kullanıcı adını @ bu işarə olmadan yazın.",
-            "value": "",
+            "value": "RiyaddBlogg",
             "required": true
         },
         "PLAYLIST_ID": {
             "description": "Playlist kanalının ID-ni yazın.",
-            "value": "",
+            "value": "1566763718",
             "required": true
         },
         "BOT_OWNER": {
             "description": "Öz kullanıcı adınızı @ bu işarə olmadan yazın.",
-            "value": "",
+            "value": "Thagiyevv",
             "required": true
         },
         "BOT_USERNAME": {
             "description": "Botun kullanıcı adını @ bu işarə olmadan yazın.",
-            "value": "",
+            "value": "KarabakhSongBot",
             "required": true
         }
     },
